@@ -1,11 +1,11 @@
 # USDA Food Database (`usda-food-database`)
 
-Public static food nutrition database curated and normalized for the Calorie Counter application.
+Public static food nutrition database curated and normalized for the Calorie Counter.
 
 Generated automatically by [`usda-food-database-generator`](https://github.com/zeroboo/usda-food-database-generator).
 
 ## Structure
-- `food-db.json`: Normalized whole-food database (~9,000 items) for AI meal photo recognition.
+- `food-db.json`: Normalized whole-food database (~9,000 items).
 - `branded/`: 2-tier prefix-sharded branded food database (~450,000 barcode items).
 - `manifest.json`: Metadata, entry counts, and SHA-256 verification hash.
 
