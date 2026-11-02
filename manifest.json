@@ -1,13 +1,19 @@
 {
   "formatVersion": 1,
   "version": "2026.11.02",
-  "generatedAt": "2026-11-02T04:49:46.204Z",
+  "generatedAt": "2026-11-02T05:31:52.804Z",
   "wholeFoods": {
     "entryCount": 16570,
     "sha256": "fe4e12a286c991d27384b326517e1050f1918fc89525ca40b4a0d038e3d34406"
   },
   "sourceDatasets": [
     "USDA FoodData Central Foundation Foods (October 2026)",
-    "USDA FoodData Central SR Legacy (April 2018)"
-  ]
+    "USDA FoodData Central SR Legacy (April 2018)",
+    "USDA FoodData Central Branded Foods (October 2026)"
+  ],
+  "brandedFoods": {
+    "entryCount": 2010152,
+    "shardCount": 4771,
+    "prefixLength": 4
+  }
 }
