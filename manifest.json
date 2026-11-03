@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "version": "2026.11.02",
-  "generatedAt": "2026-11-02T05:31:52.804Z",
+  "version": "2026.11.03",
+  "generatedAt": "2026-11-03T07:30:41.719Z",
   "wholeFoods": {
-    "entryCount": 16570,
-    "sha256": "fe4e12a286c991d27384b326517e1050f1918fc89525ca40b4a0d038e3d34406"
+    "entryCount": 36478,
+    "sha256": "b3188f579bd5c48262a12b79bff98e77d4a9fc83ac82fe476c9c2da926f25ae0"
   },
   "sourceDatasets": [
     "USDA FoodData Central Foundation Foods (October 2026)",
